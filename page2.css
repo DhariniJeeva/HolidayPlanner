@@ -1,0 +1,78 @@
+#firstsel{
+    margin-top:5em;
+    float:left;
+    position: relative;
+}
+
+#imagediv {
+    -moz-transform:scale(0.5);
+    -webkit-transform:scale(0.5);
+    transform:scale(0.5);
+    left:10px;
+    position: relative;
+    border-radius: 15px;
+    top:0px;
+    margin-top: 5em;
+    margin-left: -10em;
+    margin-right: 25em;
+}
+
+#imageid
+{
+    border-radius: 15px;
+    width:80%;
+    
+}
+
+#oporder{
+    display: inline-block;
+    margin-left: auto;
+    
+}
+html { 
+  background: url(back.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color:rgba(0, 0, 0, 0);
+  
+}
+#choices{
+    display: inline-block;
+}
+
+#textsubmit
+{
+    margin-bottom: 5em;
+    display: inline-block;
+    margin-left:1em;
+    
+}
+#phonenumber
+{
+    margin-top: 5em;
+    margin-left:1em; 
+}
+#userinfo
+{
+     margin-top: -3.5em;
+}
+
+#Selection
+{
+    
+    font-size: 20px;
+	position: relative;
+	float: center;
+	background-color: #F4cc70;
+	width: 14em;
+    position: relative;
+	float:left;
+    margin:0.5em;
+    
+}
+#pic
+{
+   color: #E6E6E6
+}
