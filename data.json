@@ -1,6 +1,6 @@
 [{
 		"choice": "firstselection",
-		"image": "img/holidayplanner.jpg",
+		"image": "holidayplanner.jpg",
 
 		"option": [{
 			"choices": "Choose your location"
@@ -15,7 +15,7 @@
 
 	{
 		"choice": "Family Vacation",
-		"image": "img/Family_Vacation.jpg",
+		"image": "Family_Vacation.jpg",
 
 		"option": [{
 			"choices": "Select your activity"
@@ -28,7 +28,7 @@
 
 	{
 		"choice": "Camping/fishing",
-		"image": "img/camp.jpg",
+		"image": "camp.jpg",
 
 		"option": [{
 			"choices": "select your budget"
@@ -39,7 +39,7 @@
 		}]
 	}, {
 		"choice": "outdoor activity",
-		"image": "img/familyoutdoor.jpg",
+		"image": "familyoutdoor.jpg",
 
 		"option": [{
 			"choices": "choose your budget"
@@ -50,7 +50,7 @@
 		}]
 	}, {
 		"choice": "less than 2k",
-		"image": "img/budget.gif",
+		"image": "budget.gif",
 
 		"option": [{
 				"choices": "choose season"
@@ -63,7 +63,7 @@
 		]
 	}, {
 		"choice": "within 2-3k",
-		"image": "img/budget.gif",
+		"image": "budget.gif",
 
 		"option": [{
 			"choices": "which season"
@@ -74,7 +74,7 @@
 		}]
 	}, {
 		"choice": "less than 1k",
-		"image": "img/budget.gif",
+		"image": "budget.gif",
 
 		"option": [{
 			"choices": "choose your season"
@@ -85,7 +85,7 @@
 		}]
 	}, {
 		"choice": "1-2k",
-		"image": "img/budget.gif",
+		"image": "budget.gif",
 
 		"option": [{
 			"choices": "Season?"
@@ -96,23 +96,23 @@
 		}]
 	}, {
 		"choice": "Summer/Fall",
-		"image": "img/jetskiing.jpg",
+		"image": "jetskiing.jpg",
 		"option": []
 	}, {
 		"choice": "Spring/Winter",
-		"image": "img/miami.jpg",
+		"image": "miami.jpg",
 		"option": []
 	}, {
 		"choice": "summer/fall",
-		"image": "img/popeyevillage.jpg",
+		"image": "popeyevillage.jpg",
 		"option": []
 	}, {
 		"choice": "spring/winter",
-		"image": "img/utah.jpg",
+		"image": "utah.jpg",
 		"option": []
 	}, {
 		"choice": "Adventurous trip",
-		"image": "img/adv.jpg",
+		"image": "adv.jpg",
 
 		"option": [{
 			"choices": "Select your activity"
@@ -125,7 +125,7 @@
 
 	{
 		"choice": "Hiking/Biking",
-		"image": "img/biki.jpg",
+		"image": "biki.jpg",
 
 		"option": [{
 			"choices": "select your budget"
@@ -136,7 +136,7 @@
 		}]
 	}, {
 		"choice": "Snorkel/Scuba Diving",
-		"image": "img/scubaa.jpg",
+		"image": "scubaa.jpg",
 
 		"option": [{
 			"choices": "choose your budget"
@@ -147,7 +147,7 @@
 		}]
 	}, {
 		"choice": "within 2k",
-		"image": "img/budget.gif",
+		"image": "budget.gif",
 
 		"option": [{
 				"choices": "choose season"
@@ -160,7 +160,7 @@
 		]
 	}, {
 		"choice": "2-3k",
-		"image": "img/budget.gif",
+		"image": "budget.gif",
 
 		"option": [{
 			"choices": "which season"
@@ -171,7 +171,7 @@
 		}]
 	}, {
 		"choice": "3k",
-		"image": "img/budget.gif",
+		"image": "budget.gif",
 
 		"option": [{
 			"choices": "choose your season"
@@ -182,7 +182,7 @@
 		}]
 	}, {
 		"choice": "within 1k",
-		"image": "img/budget.gif",
+		"image": "budget.gif",
 
 		"option": [{
 			"choices": "season?"
@@ -194,39 +194,39 @@
 	}, 
 	{
 		"choice": "Summer break",
-		"image": "img/scuba.jpg",
+		"image": "scuba.jpg",
 		"option": []
 	}, {
 		"choice": "Winter break",
-		"image": "img/scubawinter.jpg",
+		"image": "scubawinter.jpg",
 		"option": []
 	}, {
 		"choice": "summer break",
-		"image": "img/mexico.jpeg",
+		"image": "mexico.jpeg",
 		"option": []
 	}, {
 		"choice": "winter break",
-		"image": "img/snorkelwinter22.jpg",
+		"image": "snorkelwinter22.jpg",
 		"option": []
 	}, {
 		"choice": "summer holiday",
-		"image": "img/summerhike.jpg",
+		"image": "summerhike.jpg",
 		"option": []
 	}, {
 		"choice": "winter holiday",
-		"image": "img/hiking.jpg",
+		"image": "hiking.jpg",
 		"option": []
 	}, {
 		"choice": "Summer Holiday",
-		"image": "img/summerhike2.jpg",
+		"image": "summerhike2.jpg",
 		"option": []
 	}, {
 		"choice": "Spring Holiday",
-		"image": "img/springhike.jpg",
+		"image": "springhike.jpg",
 		"option": []
 	}, {
 		"choice": "Cruise trip",
-		"image": "img/luxurycruis.jpg",
+		"image": "luxurycruis.jpg",
 
 		"option": [{
 			"choices": "Select your activity"
@@ -239,7 +239,7 @@
 
 	{
 		"choice": "River Cruising",
-		"image": "img/rivercruise.jpg",
+		"image": "rivercruise.jpg",
 
 		"option": [{
 			"choices": "select your budget"
@@ -250,7 +250,7 @@
 		}]
 	}, {
 		"choice": "Luxury cruising",
-		"image": "img/luxurycruis.jpg",
+		"image": "luxurycruis.jpg",
 
 		"option": [{
 			"choices": "choose your budget"
@@ -264,7 +264,7 @@
 
 	{
 		"choice": "less than 10k",
-		"image": "img/budget.gif",
+		"image": "budget.gif",
 
 		"option": [{
 				"choices": "choose season"
@@ -277,7 +277,7 @@
 		]
 	}, {
 		"choice": "4-5k",
-		"image": "img/budget.gif",
+		"image": "budget.gif",
 
 		"option": [{
 			"choices": "which season"
@@ -288,7 +288,7 @@
 		}]
 	}, {
 		"choice": "within 5k",
-		"image": "img/budget.gif",
+		"image": "budget.gif",
 
 		"option": [{
 			"choices": "choose your season"
@@ -299,7 +299,7 @@
 		}]
 	}, {
 		"choice": "6-8k",
-		"image": "img/budget.gif",
+		"image": "budget.gif",
 
 		"option": [{
 			"choices": "season?"
@@ -310,35 +310,35 @@
 		}]
 	}, {
 		"choice": "Summer",
-		"image": "img/rivercruising.jpg",
+		"image": "rivercruising.jpg",
 		"option": []
 	}, {
 		"choice": "Spring",
-		"image": "img/no.jpg",
+		"image": "no.jpg",
 		"option": []
 	}, {
 		"choice": "summer",
-		"image": "img/rivercruising.jpg",
+		"image": "rivercruising.jpg",
 		"option": []
 	}, {
 		"choice": "winter",
-		"image": "img/GlacialSvalbardNorway.jpg",
+		"image": "GlacialSvalbardNorway.jpg",
 		"option": []
 	}, {
 		"choice": "around may",
-		"image": "img/luxurycruising.jpg",
+		"image": "luxurycruising.jpg",
 		"option": []
 	}, {
 		"choice": "december break",
-		"image": "img/luxurywinter.jpg",
+		"image": "luxurywinter.jpg",
 		"option": []
 	}, {
 		"choice": "Around may",
-		"image": "img/luxurycruising.jpg",
+		"image": "luxurycruising.jpg",
 		"option": []
 	}, {
 		"choice": "December break",
-		"image": "img/luxurycruis.jpg",
+		"image": "luxurycruis.jpg",
 		"option": []
 	}
 ]
